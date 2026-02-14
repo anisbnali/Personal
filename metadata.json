@@ -1,0 +1,8 @@
+{
+  "name": "CV  Anis BEN ALI ",
+  "description": "Interactive Engineering CV for Anis BEN ALI, focused on Open Source Systems and Observability stacks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
